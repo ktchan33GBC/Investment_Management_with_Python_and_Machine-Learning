@@ -5,19 +5,9 @@
 
 + Specialization provided by Google Cloud and New York Institute of Finance , Available on Coursera platform.
 
-+ Target Audience: Finance professionals including hedge fund traders, analysts, and day traders, as well as individuals involved in investment or portfolio management.
++ Focus: Comprehensive introduction to modern Investment Management methods with an emphasis on data science and machine learning techniques for enhanced investment decisions.
 
-+ Also suitable for machine learning professionals aiming to apply their expertise to quantitative trading strategies.
-
-+ Courses cover Python-based trading strategy creation, enabling development of long-term, short-term, and hedging strategies.
-
-+ Prerequisites: Proficiency in Python programming, familiarity with key Machine Learning libraries like Scikit-Learn, StatsModels, and Pandas.
-
-+ Strong background in ML and statistics, including regression and classification.
-
-+ Basic knowledge of financial markets (equities, bonds, derivatives) and market structure; familiarity with hedging concepts.
-
-+ Recommended experience with SQL for successful completion of program exercises.
++ Outcomes: Acquire tools for sound investment decisions, emphasizing theory, concepts, practical applications, and hands-on Python programming through dedicated lab sessions.
 
 
 
@@ -36,7 +26,9 @@ Certificate link: https://www.coursera.org/account/accomplishments/specializatio
 
 ## Important Projects
 
-This specialization involves working on a few projects. The following are 2 of the more interesting projects:
+This specialization involves working on a few projects. The following are 3 of the more interesting projects:
+
+
 
 ### Regime-based Simulations and Multi-Period Portfolio Models
 
@@ -60,3 +52,9 @@ This specialization involves working on a few projects. The following are 2 of t
 
 
 ![Result](https://github.com/ktchan33GBC/Investment_Management_with_Python_and_Machine_Learning/blob/main/img/result_Regime_Prediction_with_ML.png)
+
+
+### Lab129_Dynamic_risk_budgeting_between_PSP_&_LHP
+
+
+### Lab204_Backtesting_EW_vs_CW
