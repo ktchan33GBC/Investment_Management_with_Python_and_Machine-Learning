@@ -63,6 +63,6 @@ This specialization involves working on a few projects. The following are 3 of t
 + Backtested using historical data, the dynamic risk budgeting strategy with drawdown allocation achieved an annualized return of approximately 9%, slightly lower than the unconstrained market's 9.6%. However, it significantly reduced the maximum drawdown to the targeted 25%, compared to the market's 50%.
 + Additionally, a version with a fixed floor constraint using zero coupon bonds as a safe asset was developed.
 
-![Result](https://github.com/ktchan33GBC/Investment_Management_with_Python_and_Machine_Learning/blob/main/img/result_Regime_Prediction_with_ML.png)
+![Result](https://github.com/ktchan33GBC/Investment_Management_with_Python_and_Machine_Learning/blob/main/img/result_Backtest_Dynamic_Risk_Budgeting_Drawdown_Allocator.png)
 
 ### Lab204_Backtesting_EW_vs_CW
