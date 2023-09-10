@@ -30,16 +30,6 @@ This specialization involves working on a few projects. The following are 3 of t
 
 
 
-### Algorithmic Trading: Regime-based Simulations and Multi-Period Portfolio Models
-
-[Notebook](https://github.com/ktchan33GBC/gcp_machine_learning_for_trading/blob/main/Course_2_Using_Machine_Learning_in_Trading_and_Finance/4.Build_a_momentum-based_trading_model_and_back_test_it/momentum_backtest_making_money.ipynb) 
-
-+ Commenced with an initial portfolio value of $USD1000, observing a 1.229% growth throughout the Momentum Strategies with Hurst exponent project.
-+ Leveraged 30-day and 10-day momentum indicators to trade AAPL stock.
-+ Combined momentum trading with Hurst exponent for effective stock trading decisions
-
-![Result](https://github.com/ktchan33GBC/Investment_Management_with_Python_and_Machine_Learning/blob/main/img/result_Regime_based%20Simulations_and_Multi_Period_Portfolio_Models.png)
-
 
 
 ### Algorithmic Trading: Regime Prediction with Machine Learning
@@ -65,4 +55,15 @@ This specialization involves working on a few projects. The following are 3 of t
 
 ![Result](https://github.com/ktchan33GBC/Investment_Management_with_Python_and_Machine_Learning/blob/main/img/result_Backtest_Dynamic_Risk_Budgeting_Drawdown_Allocator.png)
 
-### Lab204_Backtesting_EW_vs_CW
+### Algorithmic Trading:  Improving Equal Weight with Cap Weighted Tethering
+
+
+[Notebook](https://github.com/ktchan33GBC/Investment_Management_with_Python_and_Machine_Learning/blob/main/Course_2_Advanced%20Portfolio%20Construction%20and%20Analysis%20with%20Python/notebook/Lab204_Backtesting_EW_vs_CW.ipynb) 
+
++ Optimized the performance of Equal Weight portfolios strategy.
++ Dealt with the disadvantages of traditional Equal Weight portfolios by excluding microcap stocks lacking liquidity, implementing weight limits as a multiple of cap weights, and enhancing tracking error reduction compared to the Cap-Weighted index.
++ Achieved a significant reduction in tracking error, decreasing it from 0.232 (Equal Weight vs. Cap Weighted portfolios) to 0.155 (Equal Weight Tethered portfolio vs. Cap Weighted portfolios).
+
+
+![Result](https://github.com/ktchan33GBC/Investment_Management_with_Python_and_Machine_Learning/blob/main/img/result_Backtest_Improving_EW_with_CapWeight_Tethering.png)
+
