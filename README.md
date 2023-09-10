@@ -30,7 +30,7 @@ This specialization involves working on a few projects. The following are 3 of t
 
 
 
-### Regime-based Simulations and Multi-Period Portfolio Models
+### Algorithmic Trading: Regime-based Simulations and Multi-Period Portfolio Models
 
 [Notebook](https://github.com/ktchan33GBC/gcp_machine_learning_for_trading/blob/main/Course_2_Using_Machine_Learning_in_Trading_and_Finance/4.Build_a_momentum-based_trading_model_and_back_test_it/momentum_backtest_making_money.ipynb) 
 
@@ -38,7 +38,7 @@ This specialization involves working on a few projects. The following are 3 of t
 + Leveraged 30-day and 10-day momentum indicators to trade AAPL stock.
 + Combined momentum trading with Hurst exponent for effective stock trading decisions
 
-![Result](https://github.com/ktchan33GBC/gcp_machine_learning_for_trading/blob/main/img/result_momentum_backtest.png)
+![Result](https://github.com/ktchan33GBC/Investment_Management_with_Python_and_Machine_Learning/blob/main/img/result_Regime_based%20Simulations_and_Multi_Period_Portfolio_Models.png)
 
 
 
@@ -54,7 +54,15 @@ This specialization involves working on a few projects. The following are 3 of t
 ![Result](https://github.com/ktchan33GBC/Investment_Management_with_Python_and_Machine_Learning/blob/main/img/result_Regime_Prediction_with_ML.png)
 
 
-### Lab129_Dynamic_risk_budgeting_between_PSP_&_LHP
+### Algorithmic Trading: Dynamic Risk Budgeting between Performance Seeking Portfolio and Goal Hedging Portfolio using a Drawdown Allocator
 
+[Notebook](https://github.com/ktchan33GBC/Investment_Management_with_Python_and_Machine_Learning/blob/main/Course_1_Introduction%20to%20Portfolio%20Construction%20and%20Analysis%20with%20Python/Notebook/Lab129_Dynamic_risk_budgeting_between_PSP_%26_LHP.ipynb)
+
+
++ Developed a portfolio with a drawdown constraint, ensuring that losses are limited to a certain amount rather than having a fixed floor constraint. This approach balances potential gains with downside protection.
++ Backtested using historical data, the dynamic risk budgeting strategy with drawdown allocation achieved an annualized return of approximately 9%, slightly lower than the unconstrained market's 9.6%. However, it significantly reduced the maximum drawdown to the targeted 25%, compared to the market's 50%.
++ Additionally, a version with a fixed floor constraint using zero coupon bonds as a safe asset was developed.
+
+![Result](https://github.com/ktchan33GBC/Investment_Management_with_Python_and_Machine_Learning/blob/main/img/result_Regime_Prediction_with_ML.png)
 
 ### Lab204_Backtesting_EW_vs_CW
