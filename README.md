@@ -3,7 +3,7 @@
 
 ## About this Specialization:
 
-+ Specialization provided by Google Cloud and New York Institute of Finance , Available on Coursera platform.
++ Specialization provided by EDHEC Business School , Available on Coursera platform.
 
 + Focus: Comprehensive introduction to modern Investment Management methods with an emphasis on data science and machine learning techniques for enhanced investment decisions.
 
@@ -33,7 +33,7 @@ This specialization involves working on a few projects. The following are 3 of t
 
 
 ### Algorithmic Trading: Regime Prediction with Machine Learning
-[Notebook](https://github.com/ktchan33GBC/gcp_machine_learning_for_trading/blob/main/Course_2_Using_Machine_Learning_in_Trading_and_Finance/6.Build_a_pair_trading_strategy_prediction_model_and_back_test_it/pairs_trading.ipynb)
+[Notebook](https://github.com/ktchan33GBC/Investment_Management_with_Python_and_Machine_Learning/blob/main/Course_3_Python%20and%20Machine%20Learning%20for%20Asset%20Management/notebook/Lab_5_Regime_Prediction_with_ML/Part3.ipynb)
 
 
 + Forecasted US economic recessions using machine learning on leading macroeconomic indicators from 1959 to August 2020
